@@ -1,4 +1,4 @@
 .image-reduite {
-  width: 10%; /* Réduit la largeur à 50% de son conteneur */
-  height: auto; /* Garde les proportions de l'image */
+  width: 10%;
+  height: auto;
 }
